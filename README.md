@@ -2,7 +2,7 @@
 
 ## Overview
 **The chalange**
-- Create a Website "The Dice Game" with somw JS code;
+- Create a Website "The Dice Game" with some JS code;
 
 **Links**
   - Project URL: 
