@@ -5,7 +5,7 @@
 - Create a Website "The Dice Game" with some JS code;
 
 **Links**
-  - Project URL: 
+  - Project URL: https://raptorff.github.io/Introducing-to-JavaScript---The-Dice-Game/
 
 **What I learned**
 - JS variables;
